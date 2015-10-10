@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://digitalrocketry.com/</loc>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://digitalrocketry.com/stuff/hero-city-hackathon/hero-city-hackathon.html</loc>
+  <lastmod>2015-06-09T00:50:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://digitalrocketry.com/stuff/needleneck/needleneck-0-0-1.html</loc>
+  <lastmod>2015-06-09T00:50:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://digitalrocketry.com/stuff/push-game/push-game.html</loc>
+  <lastmod>2015-06-09T00:50:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://digitalrocketry.com/stuff/2d-car-experiment/2d-car-experiment.html</loc>
+  <lastmod>2015-06-09T00:50:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://digitalrocketry.com/stuff/car-experiment-1/car-experiment-1.html</loc>
+  <lastmod>2015-06-09T00:50:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+</urlset>
