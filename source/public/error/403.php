@@ -7,7 +7,7 @@
 
 		<h1>403 Error!</h1>
         <p>
-        You can't access that page!
+        You don't have permission to access that!
 		</p>
 		<?php include("err.php"); ?>
 
