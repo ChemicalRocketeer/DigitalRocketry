@@ -1,20 +1,24 @@
 
 <?php include("$_SERVER[DOCUMENT_ROOT]../protected/prepend.php"); ?>
 <?php include(HEAD_BEGIN); ?>
-<meta name="description" content="Digital Rocketry is a collection of development work by programmer and web developer David Aaron Suddjian.">
+<meta name="description" content="Digital Rocketry is a collection of development work by software engineer David Aaron Suddjian.">
 <title>Digital Rocketry - David Aaron Suddjian</title>
 <?php include(HEAD_END); ?>
 
   <h1>Digital Rocketry</h1>
   <p>
-    I am a software and web development professional specializing in algorithms and architecture. I build the stuff behind the scenes.
-    Digital Rocketry is a collection of my work.
+    I am a software engineering professional specializing in algorithms and architecture. Digital Rocketry is a collection of my work.
     It's a sandbox that I use to play with new ideas and build things, but also a place to show off what I've made.
   </p>
+  <h1>CampusCribz</h1>
+  <p>
+    Since January 2016, I've been doing full stack development full time with CampusCribz, the off-campus college housing network.
+    I've been working on their most critical features, including a new sublet feature for students, the chat system, UI/UX across the board, and engineering a highly customized database search algorithm targeted towards students.
+    I've learned a lot with CampusCribz, picking up node.js with Express and MongoDB to work on interesting projects.
+    I've worked with data from partner companies, found and fixed broken existing code and code patterns, worked with the CampusCribz team to get lots of great work done, and engineered several new features from scratch.
   <h1>831 Design Group</h1>
   <p>
-    Digital Rocketry is teaming up with Patch Sobrak-Seaton of <a href="http://antifolio.tumblr.com/">Antifolio</a>, a highly skilled illustrator and branding expert, to form the
-    <a href="http://831designgroup.com">831 Design Group</a>.
+    Digital Rocketry is teaming up with Patch Sobrak-Seaton of <a href="http://antifolio.tumblr.com/">Antifolio</a>.
     We use rapid development techniques to build and deploy fast, professional, highly customized websites designed specifically to cater to your audience and your needs,
     all at rates set to beat the competition.
     <a href="mailto:&#56;&#51;&#49;&#103;&#114;&#111;&#117;&#112;&#64;&#100;&#105;&#103;&#105;&#116;&#97;&#108;&#114;&#111;&#99;&#107;&#101;&#116;&#114;&#121;&#46;&#99;&#111;&#109;">Contact us</a>
@@ -30,6 +34,7 @@
   	</p>
   </aside>
   <p>
+    <a href="https://github.com/ChemicalRocketeer/googlemapsloader.js">googlemapsloader.js</a>, an open-source project to solve problems with the Google Maps libraries in dynamic web apps.<br />
     <a href="http://rollifyapp.com">Rollify</a>: an android app designed to remove the busywork from tabletop role-playing games.<br />
     A <a href="stuff/hero-city-hackathon/hero-city-hackathon.html">2D sidescrolling shooter</a> made in twelve hours at the Hero City Hackathon.<br />
     <a href="http://controllingworkplacecosts.com">www.controllingworkplacecosts.com</a>, a website for Pacific Coast Strategies.<br />
