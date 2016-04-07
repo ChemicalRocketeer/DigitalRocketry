@@ -37,4 +37,5 @@ RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^([^\.]+)$ $1.php [NC,L]
 
-RewriteRule ^/resume$ $1.html [L]
+# remove .html extension from the resume
+RewriteRule ^/resume|resume.php$ /resume.html [L]
