@@ -36,3 +36,5 @@ ExpiresByType image/x-icon "access plus 1 month"
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+RewriteRule ^/resume$ $1.html [L]
