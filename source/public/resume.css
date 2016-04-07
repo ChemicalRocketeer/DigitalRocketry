@@ -154,7 +154,7 @@ li {
 .job .title .start-date,
 .job .title .end-date,
 .job .title .present-date {
-  white-space: nowrap;
+  display: inline-block;
 }
 
 footer {
