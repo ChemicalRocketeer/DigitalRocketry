@@ -32,7 +32,17 @@ ExpiresByType image/x-icon "access plus 1 month"
 </IfModule>
 ## EXPIRES CACHING ##
 
-# remove the file extension from php files
-RewriteEngine On
+RewriteEngine on
+
+RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^([^\.]+)$ $1.php [NC,L]
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.*)$  $1.html [L]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$  $1.php [L]
+
+RewriteCond %{REQUEST_URI} \.((html)|(php))$
+RewriteRule ^(.*)\.([^.]+)$  $1 [R,L]
