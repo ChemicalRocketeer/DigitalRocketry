@@ -9,27 +9,15 @@ RewriteCond %{HTTP:Accept-Encoding} gzip
 RewriteCond %{REQUEST_FILENAME}.gz -f
 RewriteRule ^(.*)$ $1.gz [L]
 
+RewriteEngine on
 # redirect malicious bots with a user agent of libwww-perl.*
 RewriteCond %{HTTP_USER_AGENT} libwww-perl.*
 RewriteRule .* – [F,L]
 
+RewriteEngine on
 # redirect a user accessing the site's ip address to digitalrocketry.com
 RewriteCond %{HTTP_HOST} ^208\.094\.116\.049
 RewriteRule (.*) http://digitalrocketry.com/$1 [R=301,L]
-
-# remove the file extension from php files
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME}.html -f
-RewriteRule ^(.*)$  $1.html [L]
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME}.php -f
-RewriteRule ^(.*)$  $1.php [L]
-RewriteCond %{REQUEST_URI} \.((html)|(php))$
-RewriteRule ^(.*)\.([^.]+)$  $1 [R,L]
-
-RewriteEngine off
 
 ## EXPIRES CACHING ##
 <IfModule mod_expires.c>
@@ -46,3 +34,8 @@ ExpiresByType image/x-icon "access plus 1 month"
 ExpiresDefault "access plus 2 days"
 </IfModule>
 ## EXPIRES CACHING ##
+
+# remove the file extension from php files
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
