@@ -180,11 +180,6 @@ footer {
 }
 
 @media (max-width: 570px) {
-
-  h3, h4 {
-    text-align: center;
-  }
-
   blockquote {
     margin: auto 20px;
   }
