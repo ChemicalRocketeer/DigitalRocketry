@@ -1,12 +1,14 @@
 body {
-  font-size: 12px;
+  font-size: 11px;
   line-height: 1rem;
 }
 
 /* padding-wrapper is necessary to have percentage padding that only changes when the outer wrapper starts changing */
 .padding-wrapper {
   padding: 4% 4%;
+  padding-bottom: 3.5%;
   border: .5px solid #212121;
+  margin: 5.5% 6%;
 }
 
 a {
@@ -23,5 +25,26 @@ h1 {
 
 h2 {
   text-align: left;
-  font-size: 1.3rem;
+  font-size: 1.5rem;
+  line-height: 1rem;
+  margin-top: 0.5rem;
+}
+
+.personal-info dt {
+  width: 10%;
+}
+
+.job .description,
+.job .duration {
+  margin-top: 0.7rem;
+}
+
+.job .duration {
+  font-size: 1.05rem;
+}
+
+.job .divider {
+  border-left-width: 0.5px;
+  margin-top: 0.85rem;
+  margin-bottom: 0.15rem;
 }
