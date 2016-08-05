@@ -162,8 +162,13 @@ footer {
   }
 
   .job .title {
-    text-align: right;
     width: 32%;
+  }
+
+  .job .title,
+  .job .title h3,
+  .job .title h4 {
+    text-align: right;
   }
 
   .job .description {
