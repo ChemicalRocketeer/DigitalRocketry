@@ -26,6 +26,7 @@
   	</p>
   </aside>
   <p>
+    <a href="https://github.com/ChemicalRocketeer/node_longterm">Longterm</a>, a node.js module for persistent, reliable event scheduling.<br />
     <a href="https://github.com/ChemicalRocketeer/googlemapsloader.js">googlemapsloader.js</a>, an open-source project to solve problems with the Google Maps libraries in dynamic web apps.<br />
     <a href="http://rollifyapp.com">Rollify</a>: an android app designed to remove the busywork from tabletop role-playing games.<br />
     A <a href="stuff/hero-city-hackathon/hero-city-hackathon.html">2D sidescrolling shooter</a> made in twelve hours at the Hero City Hackathon.<br />
