@@ -44,6 +44,7 @@
   </p>
   <h1>Contact</h1>
   <p>
+    <a href="https://twitter.com/digitalrocketry">@digitalrocketry</a><br>
     <a href="mailto:<?php echo SUDDJIAN_EMAIL; ?>"><?php echo SUDDJIAN_EMAIL; ?></a>
   </p>
 
