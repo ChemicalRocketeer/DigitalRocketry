@@ -16,14 +16,6 @@
     I've been working on their most critical features, including a new sublet feature for students, the chat system, UI/UX across the board, and engineering a highly customized database search algorithm targeted towards students.
     I've learned a lot with CampusCribz, picking up node.js with Express and MongoDB to work on interesting projects.
     I've worked with data from partner companies, found and fixed broken existing code and code patterns, worked with the CampusCribz team to get lots of great work done, and engineered several new features from scratch.
-  <h1>831 Design Group</h1>
-  <p>
-    Digital Rocketry is teaming up with Patch Sobrak-Seaton of <a href="http://antifolio.tumblr.com/">Antifolio</a>.
-    We use rapid development techniques to build and deploy fast, professional, highly customized websites designed specifically to cater to your audience and your needs,
-    all at rates set to beat the competition.
-    <a href="mailto:&#56;&#51;&#49;&#103;&#114;&#111;&#117;&#112;&#64;&#100;&#105;&#103;&#105;&#116;&#97;&#108;&#114;&#111;&#99;&#107;&#101;&#116;&#114;&#121;&#46;&#99;&#111;&#109;">Contact us</a>
-    to get started with a free consultation (also ask about limited-time pricing options for early adopters).
-  </p>
   <h1>Projects</h1>
   <aside>
     <p>
