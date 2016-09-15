@@ -31,12 +31,12 @@
     <a href="http://rollifyapp.com">Rollify</a>: an android app designed to remove the busywork from tabletop role-playing games.<br>
     A <a href="stuff/hero-city-hackathon/hero-city-hackathon.html">2D sidescrolling shooter</a> made in twelve hours at the Hero City Hackathon.<br>
     <a href="http://controllingworkplacecosts.com">www.controllingworkplacecosts.com</a>, a website for Pacific Coast Strategies.<br>
-    A <a href="stuff/Fractal.jar">fractal</a> visualization program.<br>
     A <a href="https://twitter.com/AaronQuineBot">Twitter bot</a> that posts a line of its own source code every time it's run.<br>
   	<a href="stuff/needleneck/needleneck-0-0-1.html">Needleneck</a> (working name), a work-in-progress competitive squad tactics game.<br>
   	A game about about <a href="stuff/push-game/push-game.html">pushing stuff off of other stuff</a>.<br>
   	A <a href="stuff/2d-car-experiment/2d-car-experiment.html">2D car experiment</a> to try making a 2D joint-based vehicle in Unity.<br>
   	A <a href="stuff/car-experiment-1/car-experiment-1.html">3D car experiment</a> that I made to see if I could make a joint-based vehicle in 3D.<br>
+    A <a href="stuff/Fractal.jar">fractal</a> visualization program.<br>
   </p>
   <h1>GitHub</h1>
   <p>
