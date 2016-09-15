@@ -7,7 +7,7 @@
 
   <h1>Digital Rocketry</h1>
   <p>
-    I am a software engineering professional specializing in algorithms and architecture. Digital Rocketry is a collection of my work.
+    I'm a software engineer. Digital Rocketry is a collection of my work.
     It's a sandbox that I use to play with new ideas and build things, but also a place to show off what I've made.
   </p>
   <h1>CampusCribz</h1>
