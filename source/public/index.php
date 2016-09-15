@@ -12,10 +12,10 @@
   </p>
   <h1>CampusCribz</h1>
   <p>
-    Since January 2016, I've been doing full stack development full time with CampusCribz, the off-campus college housing network.
-    I've been working on their most critical features, including a new sublet feature for students, the chat system, UI/UX across the board, and engineering a highly customized database search algorithm targeted towards students.
-    I've learned a lot with CampusCribz, picking up node.js with Express and MongoDB to work on interesting projects.
-    I've worked with data from partner companies, found and fixed broken existing code and code patterns, worked with the CampusCribz team to get lots of great work done, and engineered several new features from scratch.
+    Since January 2016, I've been working as a full stack developer at <a href="https://campuscribz.com">CampusCribz</a>.
+    I've been working on their most critical features, including a new sublet feature for students, chat system, UI/UX across the board, and engineering a highly customized search algorithm targeted towards students.
+    I've learned a lot with CampusCribz, picking up node.js with Express and MongoDB to build solutions to interesting problems.
+    I've worked with data from partner companies, found and fixed broken existing code and code patterns, worked with the rest of the CampusCribz team to get lots of great work done, and engineered several new features from scratch.
   <h1>Projects</h1>
   <aside>
     <p>
