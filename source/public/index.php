@@ -22,7 +22,7 @@
   	  <strong>Note to Chrome users:</strong>
   	  <a href="https://www.chromium.org/developers/npapi-deprecation">Chrome has removed support for NPAPI</a>, killing many browser plugins,
   	  including Java and Unity Engine. As a result, some projects listed here will not work in Chrome.
-  	  To make them work, I suggest you use another browser.
+  	  To make them work, you may need to use another browser.
   	</p>
   </aside>
   <p>
